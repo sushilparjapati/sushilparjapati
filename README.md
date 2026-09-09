@@ -1,35 +1,25 @@
-# 👋 Hi, I'm Sushil Kumar
+# Hi, I'm Sushil Kumar
 
-🎓 M.Tech in Mathematics & Computing (IIT Patna) | MSc in Mathematics (IIT Madras)  
-💻 GenAI Engineer @ MCG.AI | Focused on LLMs, RAG, and Agentic AI Systems  
+GenAI Engineer @ Pandita.AI, building LLM-powered apps, RAG pipelines, and agentic workflows.
+M.Tech in Mathematics & Computing (IIT Patna) · MSc in Mathematics (IIT Madras).
 
----
+## 🔭 Currently exploring
+- RAG end to end — retrieval, reranking, CRAG, Self-RAG, agentic and graph-based RAG
+- Agentic and graph-based LLM workflows (LangGraph)
+- Efficient fine-tuning with LoRA/QLoRA
 
-## 🚀 Skills & Tools
-- **Programming**: Python, C, R, SQL  
-- **AI/ML**: PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, LangGraph  
-- **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes  
-- **VectorDBs**: FAISS, Chroma, Pinecone  
-- **Visualization & Data**: Pandas, Numpy, Matplotlib, PowerBI  
-- **Other**: Streamlit, Git, VS Code, Linux  
+## 🧰 Stack
+Python · PyTorch · LangChain · LangGraph · Hugging Face · FAISS / Chroma / Pinecone · AWS · Docker · Kubernetes
 
----
+## 📌 Featured repos
+- [ai-notebook](https://github.com/sushilparjapati/ai-notebook) — includes a complete [RAG curriculum + deployed capstone](https://github.com/sushilparjapati/ai-notebook/tree/main/advanced-rag) (17 modules, 4 original implementations), plus LoRA/QLoRA fine-tuning, LangGraph workflows, and prompt engineering notes
+- [transformer](https://github.com/sushilparjapati/transformer) — a Transformer built from scratch: self-attention, multi-head attention, positional encoding, encoder/decoder
+- [llm-mini-apps](https://github.com/sushilparjapati/llm-mini-apps) — small Gemini/Groq-powered Streamlit tools: invoice extraction, resume matching, text-to-SQL
+- [tripmind](https://github.com/sushilparjapati/tripmind) — LLM-powered travel recommendation agent
+- [deep-learning](https://github.com/sushilparjapati/deep-learning) — PyTorch fundamentals through CNNs, LSTMs, and transfer learning
 
-## 📌 Featured Projects
-- 🧭 **TravelGPT Recommendation System** – Personalized travel planner using Gemini LLM & Voyagenius API.  
-- 📚 **RAG Pipeline** – Built an end-to-end Retrieval-Augmented Generation system with LangChain & VectorDBs.  
-- 🩺 **Fine-tuned LLaMA2** – Medical QA model with 25% improved accuracy.  
-- 🔍 **YOLOv8 Object Detection** – Trained on semiconductor images, achieving 69.6% mAP.  
+## 🎓 Background
+IIT JAM AIR 326 (2018) → MSc Mathematics, IIT Madras → M.Tech Mathematics & Computing, IIT Patna (GATE 524) · Gold medalist, 800m, IIT Patna (2024)
 
----
-
-## 🎯 Achievements
-- 🏅 Gold Medalist in 800m Running, IIT Patna (2024)  
-- 📊 GATE 2021/22 – Scored 524 in Mathematics  
-- 🎓 Qualified IIT JAM (AIR 326, 2018)  
-
----
-
-## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sushil1996/)  
-  
+## 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/sushil1996/)
