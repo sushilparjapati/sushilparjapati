@@ -1,6 +1,6 @@
 # Hi, I'm Sushil Kumar
 
-GenAI Engineer @ Pandita.AI, building LLM-powered apps, RAG pipelines, and agentic workflows.
+Gen AI Engineer , building LLM-powered apps, RAG pipelines, and agentic workflows.
 M.Tech in Mathematics & Computing (IIT Patna) · MSc in Mathematics (IIT Madras).
 
 ## 🔭 Currently exploring
