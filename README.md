@@ -1,14 +1,14 @@
 # Hi, I'm Sushil Kumar
 
-GenAI Engineer | LLMs, RAG, Agents | Rooted in math, building precise AI | IIT Patna · IIT Madras
+Gen AI Engineer | LLMs, RAG, Agents | Rooted in math, building precise AI | IIT Patna · IIT Madras
 
 ## Currently exploring
-Agentic and graph-based LLM workflows (LangGraph)
-Agentic coding with Claude Code
+- Agentic and graph-based LLM workflows (LangGraph)
+- Agentic coding with Claude Code
 
 ## ✅ Already built
-RAG end to end: retrieval, reranking, CRAG, Self-RAG, agentic and graph-based RAG
-Efficient fine-tuning with LoRA/QLoRA
+- RAG end to end: retrieval, reranking, CRAG, Self-RAG, agentic and graph-based RAG
+- Efficient fine-tuning with LoRA/QLoRA
 
 ## Stack
 Python · PyTorch · LangChain · LangGraph · Hugging Face · FAISS · Chroma · Pinecone · MCP · AWS · Docker
@@ -24,4 +24,4 @@ Python · PyTorch · LangChain · LangGraph · Hugging Face · FAISS · Chroma �
 IIT JAM AIR 326 (2018) → MSc Mathematics, IIT Madras → M.Tech Mathematics & Computing, IIT Patna (GATE 524) · Gold medalist, 800m, IIT Patna (2024)
 
 ## Connect
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/sushilkumar-genai/)
