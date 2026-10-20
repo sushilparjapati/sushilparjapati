@@ -4,6 +4,7 @@ Gen AI Engineer | LLMs, RAG, Agents | Rooted in math, building precise AI | IIT 
 
 ## Currently exploring
 - Agentic and graph-based LLM workflows (LangGraph) 
+- Exploring Claude tools
 
 
 ## ✅ Already built
