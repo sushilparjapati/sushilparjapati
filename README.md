@@ -4,11 +4,12 @@ Gen AI Engineer | LLMs, RAG, Agents | Rooted in math, building precise AI | IIT 
 
 ## Currently exploring
 - Agentic and graph-based LLM workflows (LangGraph) 
-- Agentic coding with Claude Code
+
 
 ## ✅ Already built
 - RAG end to end: retrieval, reranking, CRAG, Self-RAG, agentic and graph-based RAG 
-- Efficient fine-tuning with LoRA/QLoRA 
+- Efficient fine-tuning with LoRA/QLoRA  
+- Agentic coding with Claude Code
 
 ## Stack
 Python · PyTorch · LangChain · LangGraph · Hugging Face · FAISS · Chroma · Pinecone · MCP · AWS · Docker
