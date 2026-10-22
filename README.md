@@ -1,6 +1,8 @@
 # Hi, I'm Sushil Kumar
 
-Gen AI Engineer | LLMs, RAG, Agents | Rooted in math, building precise AI | IIT Patna · IIT Madras
+Gen AI Engineer with 2+ years building production LLM agents and RAG systems. I turned a 2-3 day SQL request queue at a telecom enterprise into a conversational agent that answers in under 30 seconds for 200+ business users.
+
+A maths background (M.Sc IIT Madras, M.Tech IIT Patna) is why I care about evaluation, not just demos.
 
 ## Currently exploring
 - Agentic and graph-based LLM workflows (LangGraph) 
