@@ -16,6 +16,14 @@ Drafting board-meeting agendas and minutes took 35-45 minutes. The system now do
 Inspectors had to find rust, debris, ponding and structural damage by eye. I trained an RF-DETR model on annotated drone images (73.52% mAP) and wired it into a web interface that generates inspection reports.
 
 
+## Featured repos
+
+- [ai-notebook](https://github.com/sushilparjapati/ai-notebook): a full RAG curriculum (17 modules, 4 original implementations) with a deployed capstone, plus LoRA/QLoRA fine-tuning and LangGraph workflows.
+- [tripmind](https://github.com/sushilparjapati/tripmind): an LLM-powered travel recommendation agent.
+- [llm-mini-apps](https://github.com/sushilparjapati/llm-mini-apps): Gemini/Groq Streamlit tools for invoice extraction, resume matching and text-to-SQL.
+- [transformer](https://github.com/sushilparjapati/transformer): a Transformer built from scratch (self-attention, multi-head attention, encoder/decoder).
+
+
 ## Currently exploring
 - Agentic and graph-based LLM workflows (LangGraph) 
 - Exploring Claude tools
