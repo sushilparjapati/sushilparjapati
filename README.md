@@ -4,6 +4,18 @@ Gen AI Engineer with 2+ years building production LLM agents and RAG systems. I 
 
 A maths background (M.Sc IIT Madras, M.Tech IIT Patna) is why I care about evaluation, not just demos.
 
+## What I've shipped
+
+**Text-to-SQL agent for a telecom enterprise**
+Business teams waited 2-3 days for every data query. I built a conversational agent that answers in under 30 seconds for 200+ non-technical users, removing ~85% of the manual query backlog. It uses a multi-MCP gateway (PostgreSQL, Superset, Neo4j) with a LangChain ReAct agent, and I tested it with DeepEval (Tool Correctness 0.891).
+
+**Agentic RAG for a real estate firm**
+Drafting board-meeting agendas and minutes took 35-45 minutes. The system now does it in under 5 minutes, with downloadable Word files. I validated it across 5 RAG metrics, averaging 86%.
+
+**Rooftop anomaly detection**
+Inspectors had to find rust, debris, ponding and structural damage by eye. I trained an RF-DETR model on annotated drone images (73.52% mAP) and wired it into a web interface that generates inspection reports.
+
+
 ## Currently exploring
 - Agentic and graph-based LLM workflows (LangGraph) 
 - Exploring Claude tools
