@@ -23,6 +23,17 @@ Inspectors had to find rust, debris, ponding and structural damage by eye. I tra
 - [llm-mini-apps](https://github.com/sushilparjapati/llm-mini-apps): Gemini/Groq Streamlit tools for invoice extraction, resume matching and text-to-SQL.
 - [transformer](https://github.com/sushilparjapati/transformer): a Transformer built from scratch (self-attention, multi-head attention, encoder/decoder).
 
+## Stack
+
+- **Languages:** Python, SQL
+- **LLMs and agents:** LangChain, LangGraph, LlamaIndex, MCP, RAG, Text-to-SQL, Prompt Engineering
+- **Fine-tuning:** PyTorch, Hugging Face, LoRA/QLoRA (PEFT)
+- **Vector and graph stores:** Pinecone, Qdrant, Neo4j, FAISS, Chroma
+- **Evaluation:** DeepEval, RAGAS, Langfuse
+- **Computer vision:** RF-DETR, YOLO, OpenCV
+- **Deploy:** FastAPI, Docker, Kubernetes, AWS, GCP
+
+
 
 ## Currently exploring
 - Agentic and graph-based LLM workflows (LangGraph) 
